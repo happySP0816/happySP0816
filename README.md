@@ -5,7 +5,7 @@
 <div>
 <p>Greetings! I am a detail-oriented and passionate Full-Stack Developer with proficiency in a wide range of modern web and mobile technologies.
 
-<h1>My Skills:</h1>
+<h2>My Skills:</h2>
 
 <h3>✨ Frontend:</h3>
 • React.js (Hooks, Context API), Redux Saga/Thunk<br />
