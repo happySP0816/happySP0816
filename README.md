@@ -7,53 +7,53 @@
 
 <h1>My Skills:</h1>
 
-<b>✨ Frontend:</b>
-• React.js (Hooks, Context API), Redux Saga/Thunk
-• Next.js (App Router, Server Action, Page Router, SSR, SSG)
-• Svelte/SvelteKit
-• Angular/AngularJS
-• Bootstrap, Tailwind CSS, MUI, Styled Components
-• HTML5, CSS3, SCSS, Sass
-• TanStack, D3.js
+<h3>✨ Frontend:</h3>
+• React.js (Hooks, Context API), Redux Saga/Thunk<br />
+• Next.js (App Router, Server Action, Page Router, SSR, SSG)<br />
+• Svelte/SvelteKit<br />
+• Angular/AngularJS<br />
+• Bootstrap, Tailwind CSS, MUI, Styled Components<br />
+• HTML5, CSS3, SCSS, Sass<br />
+• TanStack, D3.js<br />
 ...
 
-<b>⚙️ Backend:</b>
-• Node.js, Express.js, Nest.js
-• Rust, Ruby, Go
-• Headless CMS: Stripe
-• BaaS: Firebase, Supabase
-• MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma, TypeORM
-• Redis for Cache
+<h3>⚙️ Backend:</h3>
+• Node.js, Express.js, Nest.js<br />
+• Rust, Ruby, Go<br />
+• Headless CMS: Stripe<br />
+• BaaS: Firebase, Supabase<br />
+• MongoDB, MySQL, PostgreSQL, Mongoose, Sequelize, Prisma, TypeORM<br />
+• Redis for Cache<br />
 ...
 
-<b>📱 Cross-platform Development:</b>
-• React Native: Expertise in delivering high-performance applications for both Android and iOS.
-• Flutter: Craft visually appealing and functionally rich apps with a single codebase.
-• Xamarin: Develop cross-platform applications that share code across platforms for greater efficiency.
+<h3>📱 Cross-platform Development:</h3>
+• React Native: Expertise in delivering high-performance applications for both Android and iOS.<br />
+• Flutter: Craft visually appealing and functionally rich apps with a single codebase.<br />
+• Xamarin: Develop cross-platform applications that share code across platforms for greater efficiency.<br />
 ...
 
-<b>📲 Native Mobile Development:</b>
-• iOS: Proficient in Swift and Objective-C for top-tier iOS applications.
-• Android: Skilled in Java and Kotlin to create robust Android applications.
-• Windows Phone: Experience in building apps for Windows Mobile using .NET and C#.
+<h3>📲 Native Mobile Development:</h3>
+• iOS: Proficient in Swift and Objective-C for top-tier iOS applications.<br />
+• Android: Skilled in Java and Kotlin to create robust Android applications.<br />
+• Windows Phone: Experience in building apps for Windows Mobile using .NET and C#.<br />
 ...
 
-<b>₿ Blockchain:</b>
-• Web3.js, Ethers.js
-• Truffle
-• Solidity
+<h3>₿ Blockchain:</h3>
+• Web3.js, Ethers.js<br />
+• Truffle<br />
+• Solidity<br />
 ...
 
-<b>➕ Additional Skills:</b>
+<h3>➕ Additional Skills:</h3>
 
-• Payment SDK: Stripe, PayPal
-• SMTP: SendGrid, PostMark
-• RESTful API, Apollo GraphQL, SocketIO, Websocket
-• Google Map Integration
-• Webpack, Babel, ESLint
-• Docker
-• Hosting: AWS, Vercel, Heroku, Plesk
-• Git, Jira, Trello
+• Payment SDK: Stripe, PayPal<br />
+• SMTP: SendGrid, PostMark<br />
+• RESTful API, Apollo GraphQL, SocketIO, Websocket<br />
+• Google Map Integration<br />
+• Webpack, Babel, ESLint<br />
+• Docker<br />
+• Hosting: AWS, Vercel, Heroku, Plesk<br />
+• Git, Jira, Trello<br />
 
 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:
 
@@ -374,18 +374,18 @@ Please feel free to reach out to me for further discussion.
 
 ### Github Stats
 
-<div align="center"><a href="https://github.com/max71126?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=max71126&theme=onestar&no-frame=false" alt="max71126"/></a></div>
+<div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
 <div align="center">
-<a href="https://github.com/max71126">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=max71126&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
+<a href="https://github.com/happySP0816">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=happySP0816&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
 </a>
 </div>
 <div align="center">
- <a href="https://github.com/max71126?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=max71126&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="@max71126's github-readme-stats"/></a>
-<a href="https://github.com/max71126?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=max71126&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@max71126's github-readme-streak-stats"/></a>
+ <a href="https://github.com/happySP0816?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="@happySP0816's github-readme-stats"/></a>
+<a href="https://github.com/happySP0816?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=happySP0816&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@happySP0816's github-readme-streak-stats"/></a>
 </div>
 <div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=max71126&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="max71126"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
 </div>
 
 ### GitHub Stats Degree
