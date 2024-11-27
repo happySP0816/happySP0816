@@ -2,8 +2,6 @@
 
 <h1 align="center">𝑬𝒙𝒑𝒆𝒓𝒕 𝑾𝒆𝒃 & 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒑𝒑 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕 | 𝑨𝑰 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏 | 𝑺𝑴𝑴</h1>
 
-<div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
-
 <div>
 <p>Greetings! I am a detail-oriented and passionate Full-Stack Developer with proficiency in a wide range of modern web and mobile technologies.
 
@@ -376,6 +374,7 @@ Please feel free to reach out to me for further discussion.
 
 ### Github Stats
 
+<div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
 <div align="center">
 <a href="https://github.com/happySP0816">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=happySP0816&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="activity graph">
