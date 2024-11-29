@@ -25,16 +25,21 @@
 
 <div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
 
-## Star History
+<div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=happySP0816/happySP0816&type=Date)](https://star-history.com/#happySP0816/happySP0816&Date)
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/happySP0816/count.svg">  
 
+counting of visitors to this page in this section started from May 8, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ### Profile Views
-
+counting of visitors to this page in this section started from Nov 29, 2024
 
 ![](https://count.getloli.com/get/@happySP0816.github.readme)
+</div>
+
 
 
 
