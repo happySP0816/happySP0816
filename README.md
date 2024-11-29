@@ -103,10 +103,6 @@ Please feel free to reach out to me for further discussion.
 
 </div>
 
-### Dev Quote
-
-## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### Github Stats
 
 <div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
@@ -118,9 +114,11 @@ Please feel free to reach out to me for further discussion.
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
 </div>
 
-### GitHub Stats Degree
 
 <div align="center">
+
+### GitHub Stats Degree
+
 <table>
 <tr>
 <td><strong>S</strong></td>
