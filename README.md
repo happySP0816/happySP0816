@@ -1,3 +1,5 @@
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max71126&label=Profile%20views&color=0e75b6&style=flat" alt="max71126" /> </p>
 
 <h2 align="center">𝑬𝒙𝒑𝒆𝒓𝒕 𝑾𝒆𝒃 & 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒑𝒑 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h2>
@@ -8,8 +10,39 @@
 </a>
 </div>
 
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Greetings!+👋;I+am+a+detail-oriented+and+passionate+Full-Stack+Developer;With+proficiency+in+a+wide+range+of+modern+web+and+mobile+technologies.)](https://git.io/typing-svg)
+
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false) | ![github stats](https://github-readme-streak-stats.herokuapp.com?user=happySP0816&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D) |
+
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
+</div>
+
+
+<!-- dark snake -->
+![github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
+
+<div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&show_icons=true&theme=radical&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=happySP0816&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=happySP0816"></img>
+
+
 <div>
-<p>Greetings! I am a detail-oriented and passionate Full-Stack Developer with proficiency in a wide range of modern web and mobile technologies.
+<p>
 
 <h2>My Skills:</h2>
 
@@ -103,16 +136,7 @@ Please feel free to reach out to me for further discussion.
 
 </div>
 
-### Github Stats
 
-<div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
-<div align="center">
- <a href="https://github.com/happySP0816?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="@happySP0816's github-readme-stats"/></a>
-<a href="https://github.com/happySP0816?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=happySP0816&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="@happySP0816's github-readme-streak-stats"/></a>
-</div>
-<div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
-</div>
 
 
 <div align="center">
