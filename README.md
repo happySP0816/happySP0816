@@ -136,9 +136,9 @@ Please feel free to reach out to me for further discussion.
 
 </div>
 
-
-![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
-
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
