@@ -31,8 +31,8 @@
 
 <div align="center">
 
-<div align="center"> 
 ### Profile Views
+
 Counting of visitors to this page in this section started from Nov 29, 2024
 
 ![](https://count.getloli.com/get/@happySP0816.github.readme)
