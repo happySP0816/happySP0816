@@ -10,35 +10,32 @@
 </a>
 </div>
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<!-- dark snake -->
+![github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Greetings!+👋;I+am+a+detail-oriented+and+passionate+Full-Stack+Developer;With+proficiency+in+a+wide+range+of+modern+web+and+mobile+technologies.)](https://git.io/typing-svg)
 
-
-<!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+<!--   stats -->
+| .                                                                                                                                                  | .                                                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false) | ![github stats](https://github-readme-streak-stats.herokuapp.com?user=happySP0816&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D) |
 
 <div align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
 </div>
 
-
-<!-- dark snake -->
-![github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
-
-
 <div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
 
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&show_icons=true&theme=radical&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=happySP0816&theme=radical&layout=compact) |
+## Star History
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=happySP0816"></img>
+[![Star History Chart](https://api.star-history.com/svg?repos=happySP0816/happySP0816&type=Date)](https://star-history.com/#happySP0816/happySP0816&Date)
+
+
+
+### Profile Views
+
+
+![](https://count.getloli.com/get/@happySP0816.github.readme)
+
 
 
 <div>
