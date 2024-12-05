@@ -21,9 +21,11 @@
 
 
 <!--   stats -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=happySP0816&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=happySP0816&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=happySP0816&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
 
-|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false) | ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=happySP0816&show_icons=true&theme=radical) |
+![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false)
 
 <div align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
