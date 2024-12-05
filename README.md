@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="happySP0816"/>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
 </div>
 
