@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max71126&label=Profile%20views&color=0e75b6&style=flat" alt="max71126" /> </p>
 
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  /> </p>
 
 <h2 align="center">𝑬𝒙𝒑𝒆𝒓𝒕 𝑾𝒆𝒃 & 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒑𝒑 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h2>
 
@@ -44,7 +45,7 @@ Counting of visitors to this page in this section started from Nov 29, 2024
 ![](https://count.getloli.com/get/@happySP0816.github.readme)
 </div>
 
-
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 
 <div>
