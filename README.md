@@ -31,6 +31,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=happySP0816&theme=gotham&show_icons=true&count_private=true&hide_border=false" alt="happySP0816"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=happySP0816&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="happySP0816"/>
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=happySP0816&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="happySP0816"/>
 </div>
 
