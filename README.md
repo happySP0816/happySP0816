@@ -5,20 +5,6 @@
   <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  />
 </p>
 
-## About Me:
-
-<img src="https://github.com/user-attachments/assets/81296fe8-7309-492f-82ba-1de9cc30fede" width="300px" margin="10px" alt="computer" align="right"/>
-
-- 🔭 I’m currently learning, exploring and implementing **technical world**
-- 🌱 Currently master JS/TS/Python/Go/Swift/Dart...
-- 🤝 Looking for Collaboration Opportunities! <br/>
-    &nbsp;&nbsp;&nbsp;Senior coder eager to work on various projects. If you have an idea or project and are open to collaboration, I'd love to join in!
-- 📫 Reach me at <br/>
-  &nbsp;&nbsp;&nbsp;📧 happydeveloper0816@gmail.com <br/>
-  &nbsp;&nbsp;&nbsp;📧 happydeveloper0816@outlook.com <br/>
-  &nbsp;&nbsp;&nbsp;📞 live:.cid.60a7e3dc3e6bee26
-- ⚡ **Patience and perseverance, are the coder's mantra. 🧘‍♂️💻😊**
-
 </div>
 
 
