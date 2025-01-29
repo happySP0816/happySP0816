@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=max71126&label=Profile%20views&color=0e75b6&style=flat" alt="max71126" /> </span>
 
-
-<div style="position:relative;">
-<p align="center" style="position:relative;">
+<p align="center">
   <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  />
 </p>
 
