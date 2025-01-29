@@ -1,9 +1,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=max71126&label=Profile%20views&color=0e75b6&style=flat" alt="max71126" /> </span>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=max71126&label=Profile%20views&color=0e75b6&style=flat" alt="max71126" /> </p>
+<div style="position:relative;">
+<p align="center" style="position:relative;">
+  <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  />
+</p>
 
-<p align="center"> <img  src="https://thumbs.dreamstime.com/b/software-development-business-process-automation-internet-technology-concept-virtual-screen-software-development-143587196.jpg" height="300" width="1000"  /> </p>
+## About Me:
+
+<img src="https://github.com/user-attachments/assets/81296fe8-7309-492f-82ba-1de9cc30fede" width="300px" margin="10px" alt="computer" align="right"/>
+
+- 🔭 I’m currently learning, exploring and implementing **technical world**
+- 🌱 Currently master JS/TS/Python/Go/Swift/Dart...
+- 🤝 Looking for Collaboration Opportunities! <br/>
+    &nbsp;&nbsp;&nbsp;Senior coder eager to work on various projects. If you have an idea or project and are open to collaboration, I'd love to join in!
+- 📫 Reach me at <br/>
+  &nbsp;&nbsp;&nbsp;📧 happydeveloper0816@gmail.com <br/>
+  &nbsp;&nbsp;&nbsp;📧 happydeveloper0816@outlook.com <br/>
+  &nbsp;&nbsp;&nbsp;📞 live:.cid.60a7e3dc3e6bee26
+- ⚡ **Patience and perseverance, are the coder's mantra. 🧘‍♂️💻😊**
+
+</div>
+
+
+
 
 <h2 align="center">𝑬𝒙𝒑𝒆𝒓𝒕 𝑾𝒆𝒃 & 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒑𝒑 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h2>
 
@@ -36,6 +57,8 @@
 </div>
 
 <div align="center"><a href="https://github.com/happySP0816?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=happySP0816&theme=onestar&no-frame=false" alt="happySP0816"/></a></div>
+
+
 
 <div align="center">
 
